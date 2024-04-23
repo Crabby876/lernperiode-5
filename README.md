@@ -20,13 +20,13 @@
 
 ## 23.4.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
-
+Heute habe ich die Grob-Planung von dieser LP geplant und aufgeschrieben. Ich hab mir vorgenommen das ich meinen Tastaturschreibe Spiel fertigstellen will  und das ich eine Website erstellen will. Ich habe heute begonnen einbisschen an meinem Spiel zu arbeiten und habe Vorbereitungen für die Website getroffen (Visual Studio Code instaliert usw.). (59
 ## 30.4.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] WPS zählen
+- [ ] WPS speichern
+- [ ] Rekord auf zeigen jedes mal. Von txt. Datei abrufen.
+- [ ] versuchen nur einen Wort rot zu markieren bei Fehler.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
