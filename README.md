@@ -23,11 +23,16 @@ bringen, was ich auch ausprobieren werde.
 Heute habe ich die Grob-Planung von dieser LP geplant und aufgeschrieben. Ich hab mir vorgenommen, dass ich meinen Tastaturschreibe-Spiel fertigstellen will und das ich eine Website erstellen will. Ich habe heute begonnen ein bisschen an meinem Spiel zu arbeiten und habe Vorbereitungen für die Website getroffen (Visual Studio Code installiert usw.). (59 Wörter)
 ## 30.4.2024
 
-- [ ] M187 Dokumentation fertigstellen
-- [ ] Für Prüfung von M187 üben
+- [x] M187 Dokumentation fertigstellen
+- [x] Für Prüfung von M187 üben
 - [ ] WPS zähler in Projekt einbauen
 - [ ] WPS speichern.
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich bemerkt das ich ein wenig übungspotenizial in dem M187 habe. Ich habe also ein bisschen geübt in M187 und habe meine Dokumentaton erweitert für den M187. Danach habe ich versucht meinen Tastatuschreiben Projekt auszubessern jedoch habe ich bis jetzt nur Fehler und Bugs erschaffen. (52)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+## 6.5.2024
+
+- [ ] Projekt bugs Fixen
+- [ ] Fehler anzeige im Projekt verbessern so dass nur wörter rot markiert werden
+- [ ] WPS zähler in Projekt einbauen
+- [ ] WPS speichern.
