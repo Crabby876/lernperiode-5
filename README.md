@@ -20,7 +20,7 @@ bringen, was ich auch ausprobieren werde.
 
 ## 23.4.2024
 
-Heute habe ich die Grob-Planung von dieser LP geplant und aufgeschrieben. Ich hab mir vorgenommen das ich meinen Tastaturschreibe Spiel fertigstellen will  und das ich eine Website erstellen will. Ich habe heute begonnen einbisschen an meinem Spiel zu arbeiten und habe Vorbereitungen für die Website getroffen (Visual Studio Code instaliert usw.). (59
+Heute habe ich die Grob-Planung von dieser LP geplant und aufgeschrieben. Ich hab mir vorgenommen, dass ich meinen Tastaturschreibe-Spiel fertigstellen will und das ich eine Website erstellen will. Ich habe heute begonnen ein bisschen an meinem Spiel zu arbeiten und habe Vorbereitungen für die Website getroffen (Visual Studio Code installiert usw.). (59 Wörter)
 ## 30.4.2024
 
 - [ ] M187 Dokumentation fertigstellen
