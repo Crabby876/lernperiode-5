@@ -28,9 +28,9 @@ Heute habe ich die Grob-Planung von dieser LP geplant und aufgeschrieben. Ich ha
 - [ ] WPS zähler in Projekt einbauen
 - [ ] WPS speichern.
 
-Heute habe ich bemerkt das ich ein wenig übungspotenizial in dem M187 habe. Ich habe also ein bisschen geübt in M187 und habe meine Dokumentaton erweitert für den M187. Danach habe ich versucht meinen Tastatuschreiben Projekt auszubessern jedoch habe ich bis jetzt nur Fehler und Bugs erschaffen. (52)
+Heute habe ich bemerkt, dass ich ein wenig Übungspotenzial in dem M187 habe. Ich habe also ein bisschen geübt in M187 und habe meine Dokumentation erweitert für den M187. Danach habe ich versucht meinen Tastaturschreiben Projekt auszubessern jedoch habe ich bis jetzt nur Fehler und Bugs erschaffen. (52)
 
-## 6.5.2024
+## 7.5.2024
 
 - [ ] Projekt bugs Fixen
 - [ ] Fehler anzeige im Projekt verbessern so dass nur wörter rot markiert werden
