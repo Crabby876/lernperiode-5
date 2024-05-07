@@ -32,7 +32,7 @@ Heute habe ich bemerkt, dass ich ein wenig Übungspotenzial in dem M187 habe. Ic
 
 ## 7.5.2024
 
-- [ ] Projekt bugs Fixen
+- [ ] Im Projekt soll der generierte Text auf 25 Labels auf geteilt werden.
 - [ ] Fehler anzeige im Projekt verbessern so dass nur wörter rot markiert werden
 - [ ] WPS zähler in Projekt einbauen
 - [ ] WPS speichern.
