@@ -32,7 +32,16 @@ Heute habe ich bemerkt, dass ich ein wenig Übungspotenzial in dem M187 habe. Ic
 
 ## 7.5.2024
 
-- [ ] Im Projekt soll der generierte Text auf 25 Labels auf geteilt werden.
+- [x] Im Projekt soll der generierte Text auf 25 Labels auf geteilt werden.
 - [ ] Fehler anzeige im Projekt verbessern so dass nur wörter rot markiert werden
 - [ ] WPS zähler in Projekt einbauen
 - [ ] WPS speichern.
+
+Heute habe ich versucht eine Lösung wie ich nur einen Teil des Textes rot markieren kann statt den ganzen Text. Ich fand mehrere Lösungen, aber hab sie nicht geschafft umzusetzen oder sie haben nicht geklappt. Nach 1h 30 min habe ich mich entschieden den WPM Zähler zu machen. Ich habe einen Sekundenzähler oben rechts platziert und hab die Rechnung aufgeschrieben. Jedoch habe ich es nicht geschafft den Zähler zu stoppen, so bald man alle Wörter aufgeschrieben hat und die Rechnung hat deshalb auch nicht geklappt.(80)
+
+## 14.05.2024
+
+- [ ] Ich erstelle meine eigene Webseite mit titel und namen
+- [ ] Ich lerne Bilder und verschiedene Textarten hinzuzuügen und mache das
+- [ ] Ich lerne CSS
+- [ ] Ich designe meine Webseite ein wenig schöner.
