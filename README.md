@@ -41,7 +41,16 @@ Heute habe ich versucht eine Lösung wie ich nur einen Teil des Textes rot marki
 
 ## 14.05.2024
 
-- [ ] Ich erstelle meine eigene Webseite mit titel und namen
-- [ ] Ich lerne Bilder und verschiedene Textarten hinzuzuügen und mache das
-- [ ] Ich lerne CSS
+- [x] Ich erstelle meine eigene Webseite mit titel und namen
+- [x] Ich lerne Bilder und verschiedene Textarten hinzuzuügen und mache das
+- [x] Ich lerne CSS
 - [ ] Ich designe meine Webseite ein wenig schöner.
+
+Heute habe ich erfolreich meine eigene Webseite erstellt mit html skript. Ich habe mich durch den Modul 293 durch gearbeited und habe viele verschiedene html Befehle gelern. Als Ergebniss habe ich jetzt eine Webseite mit einen Titel und einen Test-Text ich habe auch gelernt wie man Bilder einfüge und passent einstellen kann.(56)
+
+## 21.05.2024
+
+- [ ] Ich lerne mit dem Modul 293 CSS
+- [ ] Durch das erlernte Wissen werde ich meine Webseite anhanden von CSS besser gestalten
+- [ ] Ich werde den Inhalt meiner Webseite ändern zu etwas nützlicherem.
+- [ ] Ich werde meine Webseite mit Effekten zB hovereffect erweitern
