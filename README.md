@@ -50,7 +50,7 @@ Heute habe ich erfolreich meine eigene Webseite erstellt mit html skript. Ich ha
 
 ## 21.05.2024
 
-- [ ] Ich lerne mit dem Modul 293 CSS
-- [ ] Durch das erlernte Wissen werde ich meine Webseite anhanden von CSS besser gestalten
-- [ ] Ich werde den Inhalt meiner Webseite ändern zu etwas nützlicherem.
+- [x] Ich lerne mit dem Modul 293 CSS
+- [x] Durch das erlernte Wissen werde ich meine Webseite anhanden von CSS besser gestalten
+- [x] Ich werde den Inhalt meiner Webseite ändern zu etwas nützlicherem.
 - [ ] Ich werde meine Webseite mit Effekten zB hovereffect erweitern
