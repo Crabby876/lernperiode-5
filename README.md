@@ -54,3 +54,10 @@ Heute habe ich erfolreich meine eigene Webseite erstellt mit html skript. Ich ha
 - [x] Durch das erlernte Wissen werde ich meine Webseite anhanden von CSS besser gestalten
 - [x] Ich werde den Inhalt meiner Webseite ändern zu etwas nützlicherem.
 - [ ] Ich werde meine Webseite mit Effekten zB hovereffect erweitern
+
+Heute habe ich die Basics von CSS gelernt und die dann in meiner Webseite ausprobiert. Ich habe die Textart die Textfarbe und solche Sachen geändert. Im Modul Aufgabe 7706 habe ich dann noch viel viel besser gesehen was man mit CSS eigentlich so machen kann und habe eine Vorlage erstellt mit Hilfe der Aufgabe. Ich habe meine Vorlage hochgeladen. Zu meiner Webseite habe ich ein paar fakten über mein lieblings Auto geschrieben.
+
+- [ ] Webseiten-Layout komplet ändern wie erstellte Vorlage
+- [ ] Buttons einfügen Lernen und ein Fügen
+- [ ] hover Effekt geben für Links und Buttons
+- [ ] Mehrere Seiten verbinden lernen und mit Button klick wechseln.
