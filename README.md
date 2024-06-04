@@ -65,6 +65,9 @@ Heute habe ich die Basics von CSS gelernt und die dann in meiner Webseite auspro
 Heute habe ich meine Webseite fest verbessern es hat jetzt eine nav bar und hat verschiedene Seiten, die man mit Links erreichen kann. Im Moment habe ich zwar nur die Startseit gestaltet, aber es sieht trotzdem gut aus finde ich.(64 Wörter)
 
 - [ ] Webseite einbisschen ausfüllen mit Text und Bilder
-- [ ] Bilder und Text passend zu Layout mit CSS gestalten
-- [ ] Modul 122 Aufträge zur Scriptsprache lösen
+- [x] Bilder und Text passend zu Layout mit CSS gestalten
+- [x] Modul 122 Aufträge zur Scriptsprache lösen
 - [ ] Versuchen etwas zu automatisieren mit Powershell.
+
+Heute habe ich in den erstenn zwei 45min weiter an meiner Webseite gearbeited ich habe alle unnötige Texte entfernt und habe einen Passenden Bild eingefügt danach habe ich die Texte alle mit CSS bearbeitet so das h1 und p andere Schrifftarten habe usw. Einen
+informatieven Text konnte ich noch nicht einfügen. Für ein wenig Abwechslung habe ich html geschlossen und habe mich einbisschen mit Powershell beschäfftig und aufgaben in Modul 122 gelöst.
