@@ -71,3 +71,21 @@ Heute habe ich meine Webseite fest verbessern es hat jetzt eine nav bar und hat 
 
 Heute habe ich in den erstenn zwei 45min weiter an meiner Webseite gearbeited ich habe alle unnötige Texte entfernt und habe einen Passenden Bild eingefügt danach habe ich die Texte alle mit CSS bearbeitet so das h1 und p andere Schrifftarten habe usw. Einen
 informatieven Text konnte ich noch nicht einfügen. Für ein wenig Abwechslung habe ich html geschlossen und habe mich einbisschen mit Powershell beschäfftig und aufgaben in Modul 122 gelöst.
+
+## 11.06.2024
+
+- [x] Webseite Mockup erstellen
+- [x] Neu Html und CSS dateien erstellen und verknüpfen
+- [ ] 1. Seite mit header nav footer den Layout erstellen
+- [ ] Bilder einfügen
+
+Heute habe ich mir für meine erste richtige Webseite eine Idee gesucht. Da es immer probleme mit den Bildern und den Rechten gab habe ich mich entschieden über unser Auto zu machen. Ich habe einen Mockup erstellt und habe meine Webseite vorausgeplant was länger dauerte als gedacht. Danach habe ich noch die Dateien erstellt und hab noch einbisschen mit Powerschel gearbeited damit ich nichtdurchgehen das selbe mache (heute kein Code).(75)
+
+## 18.06.2024
+
+- [ ] Mit Powershell scripten das die Datei namen gelesen und dann gespeichert werden
+- [ ] Je nach name sollen die Dateien dann sortiert werden
+- [ ] Ich füge meiner Webseite funktionierende Seite hinzu das ich in der Naviation zwischen seiten wechseln kann.
+- [ ] Ich stelle die erste Seite fertig.
+
+
