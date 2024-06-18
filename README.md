@@ -83,9 +83,11 @@ Heute habe ich mir für meine erste richtige Webseite eine Idee gesucht. Da es i
 
 ## 18.06.2024
 
-- [ ] Mit Powershell scripten das die Datei namen gelesen und dann gespeichert werden
-- [ ] Je nach name sollen die Dateien dann sortiert werden
-- [ ] Ich füge meiner Webseite funktionierende Seite hinzu das ich in der Naviation zwischen seiten wechseln kann.
+- [x] Mit Powershell scripten das die Datei namen gelesen und dann gespeichert werden
+- [x] Je nach name sollen die Dateien dann sortiert werden
+- [x] Ich füge meiner Webseite funktionierende Seite hinzu das ich in der Naviation zwischen seiten wechseln kann.
 - [ ] Ich stelle die erste Seite fertig.
+
+Heute habe ich mein Poweershell Script vertigestellt und habe den grid von meiner
 
 
