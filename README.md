@@ -88,6 +88,11 @@ Heute habe ich mir für meine erste richtige Webseite eine Idee gesucht. Da es i
 - [x] Ich füge meiner Webseite funktionierende Seite hinzu das ich in der Naviation zwischen seiten wechseln kann.
 - [ ] Ich stelle die erste Seite fertig.
 
-Heute habe ich mein Poweershell Script vertigestellt und habe den grid von meiner
+Heute habe ich mein Poweershell Script vertigestellt und habe den grid von meiner Webseite erstellt.
+
+## 25.06.2024
+
+- [ ] Grid für neben seiten erstellen
+- [ ] Informationen und Bilder in die Webseite machen
 
 
