@@ -92,7 +92,11 @@ Heute habe ich mein Poweershell Script vertigestellt und habe den grid von meine
 
 ## 25.06.2024
 
-- [ ] Grid für neben seiten erstellen
-- [ ] Informationen und Bilder in die Webseite machen
+- [x] Grid für neben seiten erstellen
+- [x] Informationen und Bilder in die Webseite machen
 
+
+## Reflexion
+
+In diesem LP habe ich mich mit dem erstellen von Webseiten also html und CSS befasst. Ich habe sehr vie neues gelernt und angewendet. Am ende dieses LP hatte ich eine fertige Webseite wobei ich am Anfang nicht eine einzigen html code gekannt habe. Meine Webseite habe ich dann noch mit zusätzlichen Effeckten erweitert wie zum Beispiel hover Effekten und einem Hamburgermenu. Ich bin sehr zufrieden mit dem was ich in diesem LP erreicht habe, da ich mein Wissen um einiges vergrössert habe. Im unterricht war ich zum grössten Teil fokusiert doch in OPL lief es manchmal nich so gut mitder Konzentration. Um im OPL auch konzentriert zu arbeiten könnte ich vielleicht etwas früher aufstehen und wach werden in dem ich einbisschen in die frische Luft gehe. Dannach sollte ich nicht mehr so müde sein und dadurch kann ich mich vielleicht auch besser Konzentrieren.
 
